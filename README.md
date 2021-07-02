@@ -7,3 +7,4 @@ Then in the ClientTest.java replace the server address 127.0.0.1 with your serve
 Then compile both the files. Uplaod the serverside files on the server and run the ServerTest.java file then ClientTest.java and then the connection will be established. Enjoy!
 
 If you don't have any server then you can run the ServerTest.java and then ClientTest.java and then the connection will be established in the same machine without making any changes mentioned. 127.0.0.1 is a local host and you can run both the server and client on the same machine just for testing.
+It has a client limit of 100.
